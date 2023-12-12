@@ -38,6 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Run with Docker 
 
 docker build -t spectrum-tracker .
+
 docker run -p 3000:3000 spectrum-tracker
 
 
